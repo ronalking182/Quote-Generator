@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [quote Generator project]
+  - quote Generator project
 - [Author](#author)
 
 ## Overview
@@ -12,8 +12,8 @@ this project generate random quote
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ronalking182/Quote-Generator/commit/861b9463ce4a65fe1ad564f12d71f821d61694c9)
+- Live Site URL: [Add live site URL here](https://ronalking182.github.io/Quote-Generator/)
 
 ### Built with
 
